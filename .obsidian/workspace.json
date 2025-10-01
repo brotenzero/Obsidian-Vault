@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "17d11e6aba5f3eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "35efcfb3a285d187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee83666e081f772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESG_Dev/2025_09_31 Day 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_09_31 Day 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eaeddcdd635f7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c74f98c7548c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9aa1d1b5479443d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b3854fd38bcafeca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "bbd0e0a769a59ce6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "95249160d8f98c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "32523f3d07e8ee6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fc2d0c274a729e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025_09_30 Day 1 의 백링크"
+            }
+          },
+          {
+            "id": "721493d8c6e40394",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025_09_30 Day 1 의 나가는 링크"
+            }
+          },
+          {
+            "id": "71a6beb811e9e7fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "7deae96e86e3255e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025_09_30 Day 1 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "aee83666e081f772",
+  "lastOpenFiles": [
+    "Pasted image 20251001100017.png",
+    "Pasted image 20251001095959.png",
+    "ESG_Dev/2025_09_30 Day 1.md",
+    "ESG_Dev/2025_09_31 Day 2.md",
+    "2025-09-30.md",
+    "무제.base",
+    "create a link.md",
+    "환영합니다!.md",
+    "ESG_Dev"
+  ]
+}
