@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "17d11e6aba5f3eec",
+    "id": "f84c1df55ba1e50b",
     "type": "split",
     "children": [
       {
-        "id": "6f73fc3a9cf955eb",
+        "id": "d99f4828bed9de21",
         "type": "tabs",
         "children": [
           {
-            "id": "3b095ca62298d176",
+            "id": "c3b10896d035eead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "file": "2025_09_30 Day 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7eaeddcdd635f7a2",
+    "id": "160b2cb4ac1933c9",
     "type": "split",
     "children": [
       {
-        "id": "40c74f98c7548c59",
+        "id": "3b8beda6b18d589e",
         "type": "tabs",
         "children": [
           {
-            "id": "e9aa1d1b5479443d",
+            "id": "e4ef76897bfaa83b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b3854fd38bcafeca",
+            "id": "3da8eddf67da1de8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "bbd0e0a769a59ce6",
+            "id": "411a7195715384ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "95249160d8f98c18",
+    "id": "dc47c3faf4276713",
     "type": "split",
     "children": [
       {
-        "id": "32523f3d07e8ee6b",
+        "id": "e0985bde798467ba",
         "type": "tabs",
         "children": [
           {
-            "id": "59fc2d0c274a729e",
+            "id": "d71a59b28e7d7423",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "file": "2025_09_30 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "721493d8c6e40394",
+            "id": "cb0c8e958c49b451",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "file": "2025_09_30 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "71a6beb811e9e7fc",
+            "id": "0448b17a55cc0101",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "7deae96e86e3255e",
+            "id": "225a9e87878f6075",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "file": "2025_09_30 Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,38 +169,16 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "3b095ca62298d176",
+  "active": "c3b10896d035eead",
   "lastOpenFiles": [
-    "ESG_Dev/2025_10_22 Day 10.md",
-    "ESG_Dev/2025_10_21 Day 9.md",
-    "ESG_Dev/도커설치__중요.md",
-    "ESG_Dev/2025_09_30 Day 1.md",
-    "ESG_Dev/2025_09_31 Day 2.md",
-    "ESG_Dev/2025_10_13 Day 3.md",
-    "Pasted image 20251022110221.png",
-    "Pasted image 20251022100825.png",
-    "Pasted image 20251017101752.png",
-    "Pasted image 20251001163031.png",
-    "Pasted image 20251001105111.png",
-    "Pasted image 20251001095959.png",
-    "무제 1.md",
-    "ESG_Dev/2025_10_14 Day 4.md",
-    "Pasted image 20251022111215.png",
-    "Pasted image 20251022105321.png",
-    "ESG_Dev/도커설치",
-    "ESG_Dev/2025_10_20 Day 8.md",
-    "ESG_Dev/2025_10_17 Day 7.md",
-    "ESG_Dev/2025_10_16 Day 6.md",
-    "ESG_Dev/무제.md",
-    "Pasted image 20251017121518.png",
-    "무제.md",
-    "ESG_Dev/2025_10_15 Day 5.md",
-    "Pasted image 20251001100017.png",
-    "무제",
-    "2025-09-30.md",
-    "무제.base",
-    "create a link.md",
-    "환영합니다!.md",
-    "ESG_Dev"
+    "2025_09_31 Day 2.md",
+    "2025_10_13 Day 3.md",
+    "2025_10_20 Day 8.md",
+    "2025_10_17 Day 7.md",
+    "2025_10_15 Day 5.md",
+    "2025_10_21 Day 9.md",
+    "2025_10_22 Day 10.md",
+    "2025_10_16 Day 6.md",
+    "2025_09_30 Day 1.md"
   ]
 }
