@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f73fc3a9cf955eb",
+        "id": "310b0b698e157bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "deaab1cf639c15bd",
+            "id": "5acd020cb842561d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,25 @@
               "icon": "lucide-file",
               "title": "프로젝트"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4b2d051153cd7505",
+        "type": "tabs",
+        "children": [
           {
-            "id": "deb962adcbdaa13d",
+            "id": "12a10f174ce877e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_10_27 Day 13.md",
+                "file": "인사프로그램/인사프로그램.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_10_27 Day 13"
+              "title": "인사프로그램"
             }
           }
         ]
@@ -59,6 +65,23 @@
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "95e4a9ab877be2ba",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ESG_Dev/무제 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "무제 1"
             }
           },
           {
@@ -108,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESG_Dev/2025_09_30 Day 1.md",
+                "file": "인사프로그램/프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025_09_30 Day 1 의 백링크"
+              "title": "프로젝트 의 백링크"
             }
           },
           {
@@ -183,19 +206,26 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "deaab1cf639c15bd",
+  "active": "12a10f174ce877e6",
   "lastOpenFiles": [
-    "ESG_Dev/2025_10_28 Day 14.md",
-    "Pasted image 20251001100017.png",
+    "인사프로그램/AI 프로젝트과정 한눈에보기.md",
+    "인사프로그램/인사프로그램.md",
     "인사프로그램/프로젝트.md",
+    "ESG_Dev/도커설치.md",
+    "ESG_Dev/무제 1.canvas",
+    "ESG_Dev/2025_09_30 Day 1.md",
+    "ESG_Dev/2025_10_28 Day 14.md",
+    "ESG_Dev/2025_10_27 Day 13.md",
+    "2025-10-28.md",
+    "무제.canvas",
+    "무제.md",
+    "Pasted image 20251001100017.png",
     "esg크롤링/ESG관련데이터 크롤링.md",
     "Pasted image 20251028144043.png",
-    "ESG_Dev/2025_10_27 Day 13.md",
     "Pasted image 20251027121617.png",
     "Pasted image 20251027122413.png",
     "Pasted image 20251017101752.png",
     "인사프로그램",
-    "ESG_Dev/도커설치.md",
     "ESG_Dev/2025_10_22 Day 10.md",
     "ESG_Dev/2025_10_23 Day 11.md",
     "ESG_Dev/2025_10_24 Day 12.md",
@@ -204,10 +234,8 @@
     "ESG_Dev/2025_10_21 Day 9.md",
     "ESG_Dev/무제 2.md",
     "Pasted image 20251001095959.png",
-    "무제 1.md",
     "무제 2.md",
     "ESG_Dev/2025_09_31 Day 2.md",
-    "ESG_Dev/2025_09_30 Day 1.md",
     "Pasted image 20251023160116.png",
     "Pasted image 20251023155440.png",
     "ESG_Dev/2025_10_13 Day 3.md",
