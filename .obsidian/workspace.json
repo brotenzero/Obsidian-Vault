@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_11_10 Day 23.md",
+                "file": "ESG_Dev/2025_11_11 Day 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_11_10 Day 23"
+              "title": "2025_11_11 Day 24"
+            }
+          },
+          {
+            "id": "b7cbf6243257f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESG_Dev/2025_11_11 Day 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_11_11 Day 24"
+            }
+          },
+          {
+            "id": "d1c20b55af1b72c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESG_Dev/초반세팅.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "초반세팅"
             }
           },
           {
@@ -35,7 +63,8 @@
               "title": "2025_11_11 Day 24"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,12 +229,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "9bc3e891c3441a08",
+  "active": "495b11dfb19653b6",
   "lastOpenFiles": [
+    "ESG_Dev/초반세팅.md",
+    "Pasted image 20251112150152.png",
     "ESG_Dev/2025_11_11 Day 24.md",
+    "ESG_Dev/2025_11_12 Day 25.md",
+    "Pasted image 20251112094937.png",
+    "ESG_Dev/도커설치.md",
+    "netflixUreka.png",
+    "ESG_Dev/2025_11_10 Day 23.md",
     "Pasted image 20251111143626.png",
     "2025-10-28.md",
-    "ESG_Dev/2025_11_10 Day 23.md",
     "ESG_Dev/2025_10_27 Day 13.md",
     "ESG_Dev/2025_10_23 Day 11.md",
     "ESG_Dev/2025_10_20 Day 8.md",
@@ -221,7 +256,6 @@
     "무제.md",
     "ESG_Dev/2025_10_31 Day 17.md",
     "무제.canvas",
-    "ESG_Dev/도커설치.md",
     "ESG_Dev/무제 1.canvas",
     "Pasted image 20251106141002.png",
     "Pasted image 20251106110947.png",
@@ -233,13 +267,8 @@
     "Pasted image 20251001100017.png",
     "esg크롤링/ESG관련데이터 크롤링.md",
     "Pasted image 20251028144043.png",
-    "Pasted image 20251027121617.png",
-    "Pasted image 20251027122413.png",
-    "Pasted image 20251017101752.png",
     "인사프로그램",
     "ESG_Dev/2025_10_22 Day 10.md",
-    "ESG_Dev/2025_10_24 Day 12.md",
-    "ESG_Dev/2025_10_21 Day 9.md",
     "ESG_Dev/도커설치",
     "esg크롤링",
     "무제.base",
