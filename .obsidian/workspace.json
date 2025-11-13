@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bc3e891c3441a08",
+            "id": "c89d8b97b051dba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_11_11 Day 24.md",
+                "file": "ESG_Dev/2025_11_13 Day 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_11_11 Day 24"
+              "title": "2025_11_13 Day 26"
             }
           },
           {
-            "id": "b7cbf6243257f2fd",
+            "id": "dec2de35c8ef4f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_11_11 Day 24.md",
+                "file": "ESG_Dev/2025_11_13 Day 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_11_11 Day 24"
-            }
-          },
-          {
-            "id": "d1c20b55af1b72c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESG_Dev/초반세팅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "초반세팅"
-            }
-          },
-          {
-            "id": "495b11dfb19653b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESG_Dev/2025_11_11 Day 24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025_11_11 Day 24"
+              "title": "2025_11_13 Day 26"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,46 +201,47 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "495b11dfb19653b6",
+  "active": "dec2de35c8ef4f69",
   "lastOpenFiles": [
-    "ESG_Dev/초반세팅.md",
-    "Pasted image 20251112150152.png",
-    "ESG_Dev/2025_11_11 Day 24.md",
-    "ESG_Dev/2025_11_12 Day 25.md",
-    "Pasted image 20251112094937.png",
-    "ESG_Dev/도커설치.md",
-    "netflixUreka.png",
-    "ESG_Dev/2025_11_10 Day 23.md",
-    "Pasted image 20251111143626.png",
-    "2025-10-28.md",
-    "ESG_Dev/2025_10_27 Day 13.md",
-    "ESG_Dev/2025_10_23 Day 11.md",
-    "ESG_Dev/2025_10_20 Day 8.md",
-    "ESG_Dev/2025_10_17 Day 7.md",
-    "ESG_Dev/2025_10_29 Day 15.md",
-    "ESG_Dev/2025_10_30 Day 16.md",
     "ESG_Dev/2025_11_05 Day 20.md",
     "ESG_Dev/2025_11_06 Day 21.md",
     "ESG_Dev/2025_11_07 Day 22.md",
+    "ESG_Dev/2025_11_10 Day 23.md",
+    "ESG_Dev/2025_11_11 Day 24.md",
+    "ESG_Dev/2025_10_29 Day 15.md",
+    "ESG_Dev/2025_10_27 Day 13.md",
+    "ESG_Dev/2025_10_22 Day 10.md",
+    "ESG_Dev/2025_10_15 Day 5.md",
+    "ESG_Dev/2025_10_16 Day 6.md",
+    "ESG_Dev/2025_10_17 Day 7.md",
+    "ESG_Dev/2025_10_20 Day 8.md",
+    "ESG_Dev/2025_10_21 Day 9.md",
+    "ESG_Dev/2025_10_23 Day 11.md",
+    "ESG_Dev/2025_10_24 Day 12.md",
+    "ESG_Dev/2025_10_28 Day 14.md",
+    "ESG_Dev/2025_10_31 Day 17.md",
+    "ESG_Dev/2025_11_12 Day 25.md",
+    "ESG_Dev/2025_10_30 Day 16.md",
+    "ESG_Dev/2025_11_13 Day 26.md",
+    "esg크롤링/ESG관련데이터 크롤링.md",
+    "OOP디자인패턴.md",
+    "Pasted image 20251113094955.png",
+    "Pasted image 20251113094459.png",
+    "Pasted image 20251113093516.png",
+    "ESG_Dev/초반세팅.md",
+    "Pasted image 20251112150152.png",
+    "Pasted image 20251112094937.png",
+    "ESG_Dev/도커설치.md",
+    "netflixUreka.png",
+    "Pasted image 20251111143626.png",
+    "2025-10-28.md",
     "Pasted image 20251111100117.png",
     "Pasted image 20251111095856.png",
     "cogiri.md",
-    "무제.md",
-    "ESG_Dev/2025_10_31 Day 17.md",
     "무제.canvas",
     "ESG_Dev/무제 1.canvas",
     "Pasted image 20251106141002.png",
-    "Pasted image 20251106110947.png",
-    "ESG_Dev/2025_10_28 Day 14.md",
-    "인사프로그램/프로젝트.md",
-    "인사프로그램/인사프로그램.md",
-    "인사프로그램/AI 프로젝트과정 한눈에보기.md",
-    "ESG_Dev/2025_09_30 Day 1.md",
-    "Pasted image 20251001100017.png",
-    "esg크롤링/ESG관련데이터 크롤링.md",
-    "Pasted image 20251028144043.png",
     "인사프로그램",
-    "ESG_Dev/2025_10_22 Day 10.md",
     "ESG_Dev/도커설치",
     "esg크롤링",
     "무제.base",
