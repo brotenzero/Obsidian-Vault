@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG_Dev/2025_12_09 Day 44.md",
+                "file": "ESG_Dev/도커설치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_12_09 Day 44"
+              "title": "도커설치"
             }
           }
         ],
@@ -210,15 +210,16 @@
   },
   "active": "3305dac4433737c7",
   "lastOpenFiles": [
+    "ESG_Dev/구글 id secret.md",
+    "ESG_Dev/도커설치.md",
+    "ESG_Dev/2025_12_09 Day 44.md",
     "Pasted image 20251209093957.png",
     "ESG_Dev/2025_12_08 Day 43.md",
-    "ESG_Dev/2025_12_09 Day 44.md",
     "ESG_Dev/2025_12_05 Day 42.md",
     "ESG_Dev/2025_12_04 Day 41.md",
     "Pasted image 20251208101731.png",
     "무제 1.md",
     "Pasted image 20251205125751.png",
-    "ESG_Dev/구글 id secret.md",
     "ESG_Dev/2025_12_03 Day 40.md",
     "ESG_Dev/2025_11_25 Day 34.md",
     "ESG_Dev/초반세팅.md",
@@ -231,7 +232,6 @@
     "Pasted image 20251124124835.png",
     "Pasted image 20251124124446.png",
     "Pasted image 20251124124439.png",
-    "Pasted image 20251124124433.png",
     "ESG_Dev/2025_11_21 Day 32.md",
     "앱프로젝트/프롬프트.md",
     "앱프로젝트/키.md",
